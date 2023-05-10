@@ -1,0 +1,17 @@
+{
+    "guild_id": "",
+    "channel_id": "",
+
+    "captmonster_key": "",
+    "tokens": {
+        "main": "your-token-here",
+        "path": "./tokens.txt"
+    },
+
+    "proxies": {
+        "enable": false,
+        "path": "./proxies.txt"
+    },
+
+    "message": "┍ Skyxyla Store ┙\n\n• ขายโปรแกรมต่างๆ และ บอทอีกมากมาย\n• รับกด Nitro mail-pass และ gift -ถูกมากๆ\n• และ โทเคน ราคาถูกๆ\n\n@everyone\n\nhttps://discord.gg/pAfAfDkrVq"
+}
